@@ -1,4 +1,8 @@
+Application Level Software
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+
+The version of NodeJs is v18.16.1
 
 ## Getting Started
 
@@ -35,3 +39,6 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 # distribution
+
+
+
